@@ -32,6 +32,7 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 
+### line regulation
 <img width="848" height="1280" alt="image" src="https://github.com/user-attachments/assets/872afe75-2062-4d15-a40a-e73d736d7758" />
 
 ### load regulation
